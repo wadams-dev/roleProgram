@@ -1,4 +1,4 @@
- var classMates = ['Alejandro', 'Ben', 'Cristian', 'Daniel', 'David', 'Derek', 'Esau',
+ var classMates = ['Alejandro', 'Ben', 'Cristian', 'Daniel', 'David', 'DJ', 'Esau',
                     'Fatima', 'Ja\'Ron', 'Rob', 'Jose','Josh', 'Flores', 'Julian',
                      'Kelly', 'Kelvin', 'Kyle', 'Leo', 'Lenise', 'Maya', 'Nathan',
                      'Vanessa', 'Vlad', 'Will', 'Wilson'];
