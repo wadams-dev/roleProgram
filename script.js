@@ -12,7 +12,8 @@ function getSpeaker(){
 }
 
 for(var i = 0; i < 25; i++){
-    console.log(counter + ". " + classMates[getSpeaker()]);
+    document.getElementById("student" + counter).innerHTML = counter + ". " + classMates[getSpeaker()];
+    //console.log(counter + ". " + classMates[getSpeaker()]);
     classMates.splice(speaker,1);
     counter++;
 }

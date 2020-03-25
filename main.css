@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #dfdede;
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-size: 3rem;
+}
+.heading {
+  text-align: center;
+}
+.student__list {
+  width: 15%;
+  margin: auto;
+  font-size: 1.5rem;
+}
